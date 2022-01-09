@@ -1,0 +1,22 @@
+{
+  "name": "reactjacketsshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blurryfacebeat/JacketsShop_React_Node.JS.git"
+  },
+  "author": "Morozov Vyacheslav <moonfall.name@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blurryfacebeat/JacketsShop_React_Node.JS/issues"
+  },
+  "homepage": "https://github.com/blurryfacebeat/JacketsShop_React_Node.JS#readme"
+}
